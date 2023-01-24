@@ -8,7 +8,7 @@ console.log(`\n${fTemp}°F is equal to ${fTempIntoCTemp}°C`);
 // F -> K
 // T(K) = (T(°F) + 459.67)× 5/9
 let fTempIntoKTemp = (fTemp + 459.67) * 5/9;
-console.log(`${fTemp}°F is equal to ${fTempIntoKTemp}°K`);
+console.log(`${fTemp}°F is equal to ${fTempIntoKTemp}K`);
 
 let ctemp = 20;
 
